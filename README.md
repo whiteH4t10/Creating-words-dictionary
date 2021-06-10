@@ -1,2 +1,2 @@
-# new 8 characters dictionary
+# Creating a words dictionary
  
